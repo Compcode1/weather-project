@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 The purpose of this project is to analyze a weather dataset to determine if it plausibly represents a specific region of the world, based on its temperature patterns and rainfall frequency. The dataset shows a notably high percentage of days with rain (approximately 88.4%), which suggests that it might correspond to a region known for frequent rainfall. By comparing the dataset's characteristics with those of several high-rainfall regions, we aim to assess the likelihood of a match.
 
 
@@ -84,5 +84,4 @@ The variance analysis revealed:
 This analysis suggests that while no single region perfectly matches the characteristics of the dataset, Yakushima Island, Japan, may be the most comparable option when considering both temperature and rainfall percentages.
 
 =======
-# Analysis of Weather Data
->>>>>>> d7cacd0 (Resolve merge conflicts)
+
